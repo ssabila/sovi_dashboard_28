@@ -5,6 +5,6 @@ account: ssabila
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 15110853
-bundleId: 10658090
+bundleId: 10659651
 url: https://ssabila.shinyapps.io/uas-komstat-1/
 version: 1
